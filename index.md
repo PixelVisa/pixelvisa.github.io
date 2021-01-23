@@ -15,9 +15,9 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# AttaliTech {#title}
+# PixelVisa {#title}
 
-## R-Shiny Consulting {#subtitle}
+## Immigrate to Canada {#subtitle}
 
 #### Led by World-Renowned Shiny Expert [Dean Attali](https://deanattali.com/) {#sub-subtitle}
 
