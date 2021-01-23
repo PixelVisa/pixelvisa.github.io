@@ -1,8 +1,8 @@
 remote_theme: daattali/beautiful-jekyll
 
-title: AttaliTech
+title: PixelVisa
 
-author: AttaliTech Ltd
+author: PixelVisa Immigration Services Inc.
 
 navbar-links:
   Services: "/#services"
@@ -22,12 +22,12 @@ navbar-text-col: "#fff"
 navbar-border-col: "#05172d"
 
 social-network-links:
-  email: "info@attalitech.com"
-  github: daattali
-  twitter: daattali
-  calendly: "attalitech/meeting"
-  youtube: "c/daattali?sub_confirmation=1"
-  patreon: DeanAttali
+  email: "info@pixelvisa.ca"
+#  github: daattali
+#  twitter: daattali
+#  calendly: "attalitech/meeting"
+#  youtube: "c/daattali?sub_confirmation=1"
+#  patreon: DeanAttali
 
 url-pretty: "AttaliTech.com"
 
